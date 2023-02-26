@@ -1,0 +1,14 @@
+        /*
+        Aquí hemos diseñado el color de los encabezados 
+        */
+        h1,h5{
+                font-size: 40pt;
+        }
+        h1,h2,h3,h4,h5{
+                color:brown;
+                background-color:rgb(255, 255, 255);
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        body{
+                background-color:rgb(255, 255, 255);
+        }
